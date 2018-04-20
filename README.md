@@ -1,1 +1,1 @@
-# bg-generator
+Welcome to Background Generator.
